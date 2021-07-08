@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alexryes
-- 👀 I’m interested in Java programming.
-- 🌱 I’m currently studying for the AP Exam.
-- 💞️ I’m looking to collaborate on any Java projects.
-- 📫 How to reach me: alexreyesaranda@students.berkeley.net.
+- 👋 Hi, I’m @Alex
+- 👀 I’m interested in all programming.
+- 🌱 I’m currently studying for nothing.
+- 💞️ I’m looking to collaborate on any projects.
+- 📫 How to reach me: papet234@gmail.com
 
 <!---
 Alexryes/Alexryes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
